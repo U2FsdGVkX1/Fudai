@@ -7,9 +7,13 @@
 ## 它由什么组成？
 
 [Laravel](https://github.com/laravel/laravel)
+
 [vue](https://github.com/vuejs/vue)
+
 [vue-route](https://github.com/vuejs/vue-router)
+
 [vuex](https://github.com/vuejs/vuex)
+
 [Element](https://github.com/ElemeFE/element)
 
 ## 为什么现在才开源？
