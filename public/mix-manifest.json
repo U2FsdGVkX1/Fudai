@@ -1,0 +1,13 @@
+{
+    "/js/login.js": "/js/login.js",
+    "/js/index.js": "/js/index.js",
+    "/js/profile.js": "/js/profile.js",
+    "/js/logs.js": "/js/logs.js",
+    "/js/admin/users.js": "/js/admin/users.js",
+    "/js/admin/stores.js": "/js/admin/stores.js",
+    "/js/admin/index.js": "/js/admin/index.js",
+    "/js/vendor.js": "/js/vendor.js",
+    "/js/app.js": "/js/app.js",
+    "/js/admin/app.js": "/js/admin/app.js",
+    "/js/manifest.js": "/js/manifest.js"
+}
